@@ -1,0 +1,21 @@
+body{
+    color: brown;
+    background: bisque;
+    margin: 0px;
+}
+
+header {
+    border: solid 2px rgb(165,42,42);
+    padding: 20px;
+    font-size: 35px;
+    color: rgb(165,42,42)
+}
+
+section {
+    background: rgb(222,184,135);
+    padding: 80px;
+
+    
+}
+
+
